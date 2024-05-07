@@ -60,20 +60,17 @@ Think of an agent as a member of a team, with specific skills and a particular j
 1.What is crewai? <Br>
 main components : Agents, tools, process, task
 
-The Evolution of Prompting
-As we explore the advancements in AI’s capability to understand and interact with us, it’s helpful to trace the evolution of how we communicate with these intelligent systems. From the initial days of command-based prompts to the nuanced and adaptive approaches of today, each stage in the development of prompting technology has brought us closer to creating AI that can reason, understand context, and even take initiative. This journey highlights a significant shift towards AI models that not only follow instructions but also engage in meaningful, dynamic dialogues, mirroring human cognitive processes more closely than ever before.
+**The Evolution of Prompting
+As we explore the advancements in AI’s capability to understand and interact with us, it’s helpful to trace the evolution of how we communicate with these intelligent systems. From the initial days of command-based prompts to the nuanced and adaptive approaches of today, each stage in the development of prompting technology has brought us closer to creating AI that can reason, understand context, and even take initiative. This journey highlights a significant shift towards AI models that not only follow instructions but also engage in meaningful, dynamic dialogues, mirroring human cognitive processes more closely than ever before.**
 
-Command-Based Prompts: Initial AI models required direct, explicit instructions for performing specific tasks, lacking flexibility and understanding.
-Natural Language Understanding (NLU): AI advanced to interpret complex, human-like prompts, allowing for more nuanced interactions.
-Contextual and Dynamic Prompting: Models gained the ability to adjust responses based on ongoing dialogues, enhancing conversation continuity.
-Chain-of-Thought (CoT) Prompting: AIs began simulating logical reasoning processes for more complex problem-solving, improving interpretability.
-ReAct Prompting: The latest evolution combines reasoning with the capability to fetch external information, significantly enhancing AI problem-solving and adaptability.
+1. **Command-Based Prompts:** Initial AI models required direct, explicit instructions for performing specific tasks, lacking flexibility and understanding.
+2. **Natural Language Understanding (NLU):** AI advanced to interpret complex, human-like prompts, allowing for more nuanced interactions.
+3. **Contextual and Dynamic Prompting:** Models gained the ability to adjust responses based on ongoing dialogues, enhancing conversation continuity.
+4. **hain-of-Thought (CoT) Prompting:** AIs began simulating logical reasoning processes for more complex problem-solving, improving interpretability.
+5. **ReAct Prompting:** The latest evolution combines reasoning with the capability to fetch external information, significantly enhancing AI problem-solving and adaptability.
 These milestones illustrate the journey towards AI that more closely mimics human cognitive abilities, marking progress from simple instruction-following to complex, dynamic problem-solving and reasoning.
-**These question on your mind:**
+
 
 1. Crewai introduction ([link](https://medium.com/@elle.neal_71064/how-i-made-an-ai-team-do-my-work-for-me-using-cohere-and-crewai-c9044b7ff027))
-2. Applications of LLMs article by CellStrat ([link](https://cellstrat.medium.com/real-world-use-cases-for-large-language-models-llms-d71c3a577bf2))
-3. What are LLMs article by Amazon ([link](https://aws.amazon.com/what-is/large-language-model/))
-4. **(Optional)** A survey of LLMs paper([link](https://arxiv.org/abs/2303.18223)) 
 
 ---
