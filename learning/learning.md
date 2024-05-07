@@ -60,8 +60,15 @@ Think of an agent as a member of a team, with specific skills and a particular j
 1.What is crewai? <Br>
 main components : Agents, tools, process, task
 
-Think of an agent as a member of a team, with specific skills and a particular job to do. Agents can have different roles like 'Researcher', 'Writer', or 'Customer Support', each contributing to the overall goal of the crew. 
+The Evolution of Prompting
+As we explore the advancements in AI’s capability to understand and interact with us, it’s helpful to trace the evolution of how we communicate with these intelligent systems. From the initial days of command-based prompts to the nuanced and adaptive approaches of today, each stage in the development of prompting technology has brought us closer to creating AI that can reason, understand context, and even take initiative. This journey highlights a significant shift towards AI models that not only follow instructions but also engage in meaningful, dynamic dialogues, mirroring human cognitive processes more closely than ever before.
 
+Command-Based Prompts: Initial AI models required direct, explicit instructions for performing specific tasks, lacking flexibility and understanding.
+Natural Language Understanding (NLU): AI advanced to interpret complex, human-like prompts, allowing for more nuanced interactions.
+Contextual and Dynamic Prompting: Models gained the ability to adjust responses based on ongoing dialogues, enhancing conversation continuity.
+Chain-of-Thought (CoT) Prompting: AIs began simulating logical reasoning processes for more complex problem-solving, improving interpretability.
+ReAct Prompting: The latest evolution combines reasoning with the capability to fetch external information, significantly enhancing AI problem-solving and adaptability.
+These milestones illustrate the journey towards AI that more closely mimics human cognitive abilities, marking progress from simple instruction-following to complex, dynamic problem-solving and reasoning.
 **These question on your mind:**
 
 1. Crewai introduction ([link](https://medium.com/@elle.neal_71064/how-i-made-an-ai-team-do-my-work-for-me-using-cohere-and-crewai-c9044b7ff027))
