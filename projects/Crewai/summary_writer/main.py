@@ -14,8 +14,6 @@ azure_llm = AzureChatOpenAI(
     azure_deployment=os.environ.get("AZURE_OPENAI_DEPLOYMENT"), temperature=0.0
 )
 
-# os.environ["SERPER_API_KEY"] = "7d5a3b9329a0e7cae596afebe2f5aca043026341" # serper.dev API key
-
 
 
 search_tool = SerperDevTool()
