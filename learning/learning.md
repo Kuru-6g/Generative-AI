@@ -72,5 +72,24 @@ These milestones illustrate the journey towards AI that more closely mimics huma
 
 
 1. Crewai introduction ([link](https://medium.com/@elle.neal_71064/how-i-made-an-ai-team-do-my-work-for-me-using-cohere-and-crewai-c9044b7ff027))
-
+2. 
 ---
+
+## Day 5:
+1.what is NLP([link](https://medium.com/nerd-for-tech/natural-language-processing-using-python-nltk-5c1804d0962d))
+
+
+## may 16:
+1. **AI interviewer** - 
+Dify AI - youtube([link](https://www.youtube.com/watch?v=8EFFa8u2kNI))
+github([link](https://github.com/langgenius/dify))
+2. Web LLM ([link](https://github.com/mlc-ai/web-llm?tab=readme-ov-file))
+        refering video([link](https://www.youtube.com/watch?v=BWm1soT0eGc))
+
+## may 18:
+# RAG-Fusion: The Next Frontier of Search Technology
+
+## Why RAG-Fusion?
+
+RAG-Fusion is an ongoing experiment that aims to make search smarter and more context-aware, thus helping us uncover the richer, deeper strata of information that we might not have found otherwise.
+([research paper](https://arxiv.org/abs/2402.03367))
