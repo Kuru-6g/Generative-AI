@@ -93,3 +93,18 @@ github([link](https://github.com/langgenius/dify))
 
 RAG-Fusion is an ongoing experiment that aims to make search smarter and more context-aware, thus helping us uncover the richer, deeper strata of information that we might not have found otherwise.
 ([research paper](https://arxiv.org/abs/2402.03367))
+
+## may 19:
+https://youtu.be/iXcwfaCR-Mw?si=B7wdD4-F7ZKJEh-L
+1. Mubert ( Make noncopyright music )
+2. Moises (  split vocal, voice ) 
+3. Popai ( Img into Pdf )
+4.  Summarist ( Book reviewer )
+5. Trickle ( Screenshot into Data )
+6.  Durable ( Create a website.) 
+7. Tripclub ( Trip Planner ) 
+8. This-person-does-not-exist ( Human created by Ai ) 
+9. Supermeme ( Create a Customized Meme ) 
+10. Jammable / Voicify ( Create a song with Different characters ) 
+11. Descript ( Text into speech ) 
+12. Gitagpt ( Bhagavad Gita's Quotes )
