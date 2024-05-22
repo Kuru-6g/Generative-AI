@@ -116,3 +116,18 @@ https://youtu.be/iXcwfaCR-Mw?si=B7wdD4-F7ZKJEh-L
 - Gemini 1.5 - working w/ huge text
 - Claude 3 - natural-sounding convos
 - Perplexity - for deep-dive research on topics
+
+
+## may 22:
+RDBMS vs Elasticsearch
+
+| RDBMS      | Elasticsearch |
+|------------|---------------|
+| Database   | Index         |
+| Table      | Type          |
+| Row        | Document      |
+| Column     | Fields        |
+| Schema     | Mapping       |
+
+
+## Deploying LLMs: Top Learning & Educational Resources to Get Started([Link](https://levelup.gitconnected.com/deploying-llms-top-learning-educational-resources-to-get-started-4db8c6034dc5))
