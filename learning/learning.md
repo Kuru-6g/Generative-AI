@@ -131,3 +131,18 @@ RDBMS vs Elasticsearch
 
 
 ## Deploying LLMs: Top Learning & Educational Resources to Get Started([Link](https://levelup.gitconnected.com/deploying-llms-top-learning-educational-resources-to-get-started-4db8c6034dc5))
+
+## may 23:
+## Agent roadmap
+1. introduction to Agent
+- what a LLM agent
+- agent practical application
+2. Core components
+- LLM Agent framework
+- possible choice for memory planning and tooling module
+3. MAS + Evaluation
+- what is a MAS(multiple agent system)
+- popular MAS examples
+- evaluating agents and challenges
+4. Real world agent
+5. Build Agent
