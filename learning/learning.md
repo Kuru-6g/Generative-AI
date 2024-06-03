@@ -146,3 +146,43 @@ RDBMS vs Elasticsearch
 - evaluating agents and challenges
 4. Real world agent
 5. Build Agent
+
+## may 29:
+## huggingface + langchain([link](https://youtu.be/bFB4zqkcatU?si=oiuvZ6tVrf5vdO7s))
+
+
+## may 30:
+## LLM OS([link](https://medium.com/@protegeigdtuw/part-1-introduction-to-llm-os-1cfec39689f7))
+
+
+## healthcare
+Here's a preview of what you'll learn: 
+Module 1: Assistant Applications
+Application 1: Personal Health Assistant
+Application 2: Mental Health Therapist Chatbot
+Module 2: Segmentation Applications
+Application 1: Brain Tumor Segmentation Using 3D-MRI Imagery
+Application 2: PolyP Segmentation on Multi-Class Images for Gastrointestinal
+Bonus 1: Cell Nuclei Segmentation Application
+Module 3: Detection Applications
+Application 3: Missing Medical Tools Detection
+Application 4: Pneumonia Detection from Chest X-Rays
+Application 5: Skin Cancer Detection
+Application 6: IR Camera Fever Detection
+Module 4: Classification Applications
+Application 7: Brain Tumor Classification using MRI Imagery
+Application 8: Diabetic Retinopathy Classification using Retina Images
+Module 5: Prediction Applications
+Application 9: Heart Disease Prediction
+Application 10: Diabetes Prediction
+Application 11: Mortality Prediction for Intensive Care Units
+Module 6: Measurement Applications
+Application 12: Breathing Rate Monitor
+Bonus 2: Heart Rate Measurement using Eulerian Magnification
+
+
+## medical RAG app ([link](https://github.com/AquibPy/Medical-RAG-LLM/blob/main/settings.py))
+
+
+## june 3
+docstring generator ([link](https://github.com/twyle/docstring-generator/blob/development/docstring_generator/config.py))
