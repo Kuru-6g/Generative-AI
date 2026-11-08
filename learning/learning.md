@@ -2,6 +2,10 @@ Generative AI Foundations Roadmap
 
 **Learn from Official Documentation first then go through linkedin post, medium article, and Github repo  :**
 
+## AWS basics
+
+See [AWS Basics](./aws.md) for introductory notes on AWS services, infrastructure, security, networking, and cost management.
+
 ## Day 1:
 
 **Learn from   :**
