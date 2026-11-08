@@ -22,6 +22,17 @@ Generative AI Foundations Roadmap
 
 1. What is RAG? 
 2. What is RAGAS? 
+3. How is memory managed in a RAG system?
+
+**RAG memory management:**
+
+- Distinguish the long-term knowledge base (documents in a vector store) from short-term conversation history.
+- Learn how documents are chunked, embedded, indexed, updated, and deleted.
+- Store useful metadata (such as source, timestamp, and access permissions) with each chunk.
+- Retrieve only relevant chunks and fit them, along with conversation history, within the model's context window.
+- Manage stale or duplicate information with refresh, versioning, and deduplication policies.
+- Apply retention limits, user or tenant isolation, and access controls to stored data.
+- Evaluate retrieval quality, relevance, and the effect of memory on answer quality.
 
 **These question on your mind:**
 
