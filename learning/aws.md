@@ -4,6 +4,14 @@
 
 Amazon Web Services (AWS) is a cloud platform that provides on-demand computing, storage, databases, networking, security, and other services. Instead of buying and maintaining physical servers, you can provision resources as needed and pay for what you use.
 
+## Cloud service models
+
+- **Infrastructure as a Service (IaaS):** You manage the operating system and application while AWS provides the underlying infrastructure. Amazon EC2 is a common example.
+- **Platform as a Service (PaaS):** AWS manages more of the runtime and infrastructure so you can focus on deploying application code. AWS Elastic Beanstalk is one example.
+- **Software as a Service (SaaS):** A complete application is delivered over the internet and managed by its provider. Amazon QuickSight is an AWS example.
+
+These are useful general categories; AWS services can differ in how much management they take on.
+
 ## Global infrastructure
 
 - **Region:** A geographic area where AWS has multiple data centers.
